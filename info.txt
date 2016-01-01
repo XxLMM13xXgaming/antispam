@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"			"RaindeerAntiSpam"
+	"version"		"1.0.0"
+	"up_date"		"12/30/2015"
+	"author_name"		"MexicanRaindeer"
+	"author_email"		"N/A"
+	"info"			"RaindeerAntiSpam addon"
+}
